@@ -39,7 +39,14 @@ I build the continuum of each pointings or mosaics.
 
 ## Catalog
 
-Astrodeep build a [multi-wavelength catalog](http://www.astrodeep.eu/frontier-fields-summary/) from B band to 4.5um, including A2744 and the parallel field.
+* Astrodeep build a [multi-wavelength catalog](http://www.astrodeep.eu/frontier-fields-summary/) from B band to 4.5um, including A2744 and the parallel field.
 
-The catalog paper: https://ui.adsabs.harvard.edu/abs/2016A%26A...590A..30M/abstract
+Catalog paper: https://ui.adsabs.harvard.edu/abs/2016A%26A...590A..30M/abstract
 
+* DeepSpace built a [multi-wavelength catalog](http://cosmos.phy.tufts.edu/~danilo/HFF/Home.html) from F275W to 8um.
+
+Catalog paper: https://ui.adsabs.harvard.edu/abs/2018ApJS..235...14S/abstract
+
+* Pagul et al. (2021) built a catalog from F275W to 8um. https://zenodo.org/record/5338978#.YshMcJNBx24 
+
+Catalog paper: https://ui.adsabs.harvard.edu/abs/2021ApJS..256...27P/abstract
