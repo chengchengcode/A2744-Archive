@@ -23,7 +23,7 @@ I downloaded the image from [ESO archive](https://archive.eso.org/scienceportal/
 
 A2744 is observed by Spitzer in [Spitzer Frontier Fields](https://irsa.ipac.caltech.edu/data/SPITZER/Frontier/) project.
 
-I downloaded the Spitzer image.
+I downloaded the Spitzer images.
 
 ## ALMA-continuum
 
