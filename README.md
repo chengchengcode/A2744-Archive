@@ -1,12 +1,11 @@
 # A2744-Archive
-Some archive data of A2744
+Some archive data sets of A2744
 
 ## HST
 
-<!--![A2744](https://archive.stsci.edu/prepds/frontier/abell2744-epoch1-annotated.jpg)-->
+![A2744](https://archive.stsci.edu/prepds/frontier/abell2744-epoch1-annotated.jpg)
 
-
-A2744 is observed by HST in [The Hubble Space Telescope Frontier Fields](https://archive.stsci.edu/prepds/frontier/) project and [BUFFALO](https://buffalo.ipac.caltech.edu/) project.
+A2744 is observed by HST in [The Hubble Space Telescope Frontier Fields](https://archive.stsci.edu/prepds/frontier/) project and [BUFFALO](https://buffalo.ipac.caltech.edu/) project with F435W F606W F814W of ACS/WFC and the F105W F125W F140W F160W of WFC3/IR. 
 
 Here are the [color images](https://archive.stsci.edu/prepds/frontier/abell2744_display.html), and [data release version](https://archive.stsci.edu/prepds/frontier/abell2744.html).
 
