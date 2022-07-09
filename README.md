@@ -11,6 +11,12 @@ Here are the [color images](https://archive.stsci.edu/prepds/frontier/abell2744_
 
 I downloaded the v1.0-epoch1 and v1.0-epoch2 data.
 
+## VLT/MUSE
+
+A2744 is observed by VLT/MUSE, with 3'X3' FoV ([Mahler et al. 2018](http://adsabs.net/abs/2018MNRAS.473..663M), [webpage](http://muse-vlt.eu/science/a2744/)).
+
+I downloaded the cube.
+
 ## Ks band
 
 A2744 is observed by VLT/HAWK-I in [HAWKI-FF](http://gbrammer.github.io/HAWKI-FF/) project ([Brammer et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJS..226....6B/abstract), [doc](http://www.eso.org/rm/api/v1/public/releaseDescriptions/75)). A2744 Ks band image depth is about 26 AB mag.
