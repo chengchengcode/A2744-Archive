@@ -43,6 +43,9 @@ The 1.1mm mosaic fits and catalog can be found here: http://cdsarc.u-strasbg.fr/
 
 The ALMA Frontier Fields Survey paper I: https://ui.adsabs.harvard.edu/abs/2017A%26A...597A..41G/abstract 
 
+The ALMA lensing cluster survey paper: https://ui.adsabs.harvard.edu/abs/2022ApJ...932...77S/abstract
+
+
 I build the continuum of each pointings or mosaics.
 
 <!-- A2744-ALMA-archive.png shows the position of the archive data. -->
