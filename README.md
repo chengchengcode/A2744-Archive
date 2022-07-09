@@ -31,9 +31,13 @@ A2744 is observed by Spitzer in [Spitzer Frontier Fields](https://irsa.ipac.calt
 
 I downloaded the Spitzer images.
 
+## Herschel
+
+A2744 has been observed by Herschel in [Herschel Lensing Survey](http://herschel.as.arizona.edu/hls/hls-deep/hls_deep_data_dr1.php).
+
 ## ALMA-continuum
 
-A2744 has been mapped by [ALMA Frontier Fields Survey](https://www.astro.puc.cl/~jgonzal/ALMA_FF.html) project, [ALMA lensing cluster survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract) project, and some other projects. There are several SMGs in the north west and one SMG in the south.
+A2744 has been mapped by ALMA in the [ALMA Frontier Fields Survey](https://www.astro.puc.cl/~jgonzal/ALMA_FF.html) project, [ALMA lensing cluster survey](https://ui.adsabs.harvard.edu/abs/2019asrc.confE..64K/abstract) project, and some other projects. There are several SMGs in the north west and one SMG in the south.
 
 The 1.1mm mosaic fits and catalog can be found here: http://cdsarc.u-strasbg.fr/viz-bin/qcat?J/A+A/597/A41#/browse
 
