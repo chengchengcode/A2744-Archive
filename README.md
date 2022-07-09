@@ -3,7 +3,7 @@ Some archive data sets of A2744
 
 ## HST
 
-![A2744](https://archive.stsci.edu/prepds/frontier/abell2744-epoch1-annotated.jpg)
+<!-- ![A2744](https://archive.stsci.edu/prepds/frontier/abell2744-epoch1-annotated.jpg) -->
 
 A2744 is observed by HST in [The Hubble Space Telescope Frontier Fields](https://archive.stsci.edu/prepds/frontier/) project and [BUFFALO](https://buffalo.ipac.caltech.edu/) project with F435W F606W F814W of ACS/WFC and the F105W F125W F140W F160W of WFC3/IR. 
 
@@ -17,7 +17,7 @@ A2744 is observed by VLT/MUSE, with 3'X3' FoV ([Mahler et al. 2018](http://adsab
 
 I downloaded the cube.
 
-## Ks band
+## HAWK-I Ks band
 
 A2744 is observed by VLT/HAWK-I in [HAWKI-FF](http://gbrammer.github.io/HAWKI-FF/) project ([Brammer et al. 2016](https://ui.adsabs.harvard.edu/abs/2016ApJS..226....6B/abstract), [doc](http://www.eso.org/rm/api/v1/public/releaseDescriptions/75)). A2744 Ks band image depth is about 26 AB mag.
 
